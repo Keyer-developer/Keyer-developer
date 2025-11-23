@@ -25,14 +25,5 @@ Atualmente estudando programação sem faculdade ou cursos formais. Apaixonado p
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=keyer-devh&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
-
----
-
 ### ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=keyer-devh&icon=6&color=7)](https://visitcount.itsvg.in)
