@@ -1,11 +1,12 @@
 # 💫 About Me
 👋 Olá!  
-Atualmente estudando programação sem faculdade ou cursos formais. Apaixonado por ciência e tecnologia, trabalho e estudo com:  
+Atualmente estudando programação. Apaixonado por ciência e tecnologia, trabalho e estudo com:  
 💻 Desenvolvimento de software  
 🎮 Criação de jogos  
 🖌️ Animação 2D  
 🎨 Artes digitais  
-
+Pretendo aprender e dominar muitas áreas assim como habilidades.
+Sempre pronto para aprender algo novo.
 ---
 
 ## 🌐 Socials
@@ -24,3 +25,4 @@ Atualmente estudando programação sem faculdade ou cursos formais. Apaixonado p
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keyer-devh&theme=ambient_gradient&hide_border=false&include_all_commits=false&layout=compact)  
 
 ---
+# SEJA MELHOR QUE ONTEM, E NÃO QUE ALGUÉM.
