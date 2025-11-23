@@ -5,6 +5,8 @@ Atualmente estudando programação. Apaixonado por ciência e tecnologia, trabal
 🎮 Criação de jogos  
 🖌️ Animação 2D  
 🎨 Artes digitais  
+Sempre pronto para aprender e fazer algo novo
+
 ---
 
 ## 🌐 Socials
