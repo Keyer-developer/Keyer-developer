@@ -24,6 +24,3 @@ Atualmente estudando programação sem faculdade ou cursos formais. Apaixonado p
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keyer-devh&theme=ambient_gradient&hide_border=false&include_all_commits=false&layout=compact)  
 
 ---
-
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
