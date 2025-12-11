@@ -3,8 +3,6 @@
 Atualmente estudando programação. Apaixonado por ciência e tecnologia, mexendo e estudo com:  
 💻 Desenvolvimento de software  
 🎮 Criação de jogos  
-🖌️ Animação 2D  
-🎨 Artes digitais  
 Sempre pronto para aprender e fazer algo novo
 
 ---
